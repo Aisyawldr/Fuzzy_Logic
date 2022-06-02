@@ -5,6 +5,13 @@ UAS Praktikum Artificial Intelligence
 -Fuzzy Logic-
 Program Logika Fuzzy Menentukan nilai akhir mahasiswa
 """
+
+"""
+Pada Program ini saya menggunakan 2 Librabry yaitu Numpy dan Scikit Fuzzy untuk membantu saya dalam membuat
+Program Logika Fuzzy Menentukan nilai akhir mahasiswa
+terlebih dahulu kita import kedua library tersebut dan menggantikannya dengan kata yang lebih sederhana
+seperti numpy menjadi np dan lain sebagianya, untuk import library ini opsional tergantung programmer
+"""
 import numpy as np
 import skfuzzy as fuzz
 from skfuzzy import control as ctrl
