@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-15T04:58:47.114Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="8EXYJE0H48YsW4R_Upu-" version="22.1.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-11-15T07:08:03.404Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="BXBVSzN70S4_WAq2ElUy" version="22.1.0" type="github" pages="3">
   <diagram name="Page-1" id="RnbOs2od9LWyhHd0b_NQ">
-    <mxGraphModel dx="2742" dy="617" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1973" dy="609" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1538,10 +1538,52 @@
     </mxGraphModel>
   </diagram>
   <diagram id="iufO7ONIFOi9HviYMDT3" name="Page-2">
-    <mxGraphModel dx="1158" dy="686" grid="1" gridSize="3" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="672" dy="398" grid="1" gridSize="3" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="RG7z0kfOfISO0wCp67wU-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RG7z0kfOfISO0wCp67wU-3" target="RG7z0kfOfISO0wCp67wU-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RG7z0kfOfISO0wCp67wU-3" value="&lt;font style=&quot;font-size: 15px;&quot; face=&quot;Comic Sans MS&quot;&gt;Mulai&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="335.5" y="48" width="144" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="RG7z0kfOfISO0wCp67wU-4" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 13px;&quot;&gt;Input Url :&lt;br&gt;&lt;a href=&quot;https://www.kksp.id/&quot;&gt;https://www.kksp.id&lt;/a&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="336" y="119" width="144" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RG7z0kfOfISO0wCp67wU-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RG7z0kfOfISO0wCp67wU-6" target="RG7z0kfOfISO0wCp67wU-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RG7z0kfOfISO0wCp67wU-6" value="&lt;font style=&quot;font-size: 13px;&quot; face=&quot;Comic Sans MS&quot;&gt;Halaman&lt;br&gt;Website &lt;br&gt;KKSP&lt;/font&gt;" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="336" y="204" width="144" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="RG7z0kfOfISO0wCp67wU-7" value="&lt;font style=&quot;font-size: 13px;&quot; face=&quot;Comic Sans MS&quot;&gt;Memilih menu pada website&lt;/font&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="336" y="312" width="144" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RG7z0kfOfISO0wCp67wU-9" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 13px;&quot;&gt;Tampilkan dari&lt;br&gt;menu yang &lt;br&gt;dipilih&lt;/font&gt;" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="336" y="396" width="144" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="RG7z0kfOfISO0wCp67wU-11" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 15px;&quot;&gt;Selesai&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="335.5" y="505" width="144" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="RG7z0kfOfISO0wCp67wU-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RG7z0kfOfISO0wCp67wU-4" target="RG7z0kfOfISO0wCp67wU-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="231" y="218" as="sourcePoint" />
+            <mxPoint x="281" y="168" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RG7z0kfOfISO0wCp67wU-13" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="RG7z0kfOfISO0wCp67wU-7" target="RG7z0kfOfISO0wCp67wU-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="243" y="428" as="sourcePoint" />
+            <mxPoint x="293" y="378" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RG7z0kfOfISO0wCp67wU-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="RG7z0kfOfISO0wCp67wU-9" target="RG7z0kfOfISO0wCp67wU-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="249" y="488" as="sourcePoint" />
+            <mxPoint x="299" y="438" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
